@@ -138,7 +138,7 @@ February 2008:
 
 X-chromosome SNP analyses in 11 human Mediterranean populations show a high overall genetic homogeneity except in North-west Africans (Moroccans): https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-8-75
 
-Genotype, haplotype and copy-number variation in worldwide human populations: http://szpiech.com/pdfs/nature06742.pdf
+Genotype, haplotype and copy-number variation in worldwide human populations: https://szpiech.com/pdfs/nature06742.pdf
 
 
 
@@ -310,9 +310,9 @@ Ancient DNA evidence supports the contribution of Di-Qiang people to the han Chi
 
 November 2010:
 
-November 9 2010, Ancient DNA from European Early Neolithic Farmers Reveals Their Near Eastern Affinities: https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1000536
+Ancient DNA from European Early Neolithic Farmers Reveals Their Near Eastern Affinities: https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.1000536
 
-November 10 2010, A new subclade of mtDNA haplogroup C1 found in icelanders: Evidence of pre-columbian contact?: https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.21419
+A new subclade of mtDNA haplogroup C1 found in icelanders: Evidence of pre-columbian contact?: https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.21419
 
 
 
@@ -554,6 +554,8 @@ Origin and Diet of the Prehistoric Hunter-Gatherers on the Mediterranean Island 
 
 Análisis molecular de relaciones familiares en los restos hallados en dos tumbas triples de la Cultura Cogotas I (Bronce Final). La Requejada (San Román de Hornija, Valladolid) y Los Tolmos (Caracena, Soria): https://www.researchgate.net/publication/281971027_Analisis_molecular_de_relaciones_familiares_en_los_restos_hallados_en_dos_tumbas_triples_de_la_Cultura_Cogotas_I_Bronce_Final_La_Requejada_San_Roman_de_Hornija_Valladolid_y_Los_Tolmos_Caracena_Soria
 
+Revisiting the harem conspiracy and death of Ramesses III: anthropological, forensic, radiological, and genetic study: https://www.bmj.com/content/345/bmj.e8268
+
 
 
 
@@ -563,10 +565,6 @@ December 2012:
 Reconstructing the Population History of European Romani from Genome-wide Data: https://www.cell.com/current-biology/fulltext/S0960-9822(12)01260-2
 
 Uniparental markers of contemporary Italian population reveals details on its pre-Roman heritage: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050794
-
-Revisiting the harem conspiracy and death of Ramesses III: anthropological, forensic, radiological, and genetic study: https://www.bmj.com/content/345/bmj.e8268
-
-Stable Carbon and Nitrogen Isotope Analysis of Human Diet Change in Prehistoric and Historic Poland: https://www.researchgate.net/profile/Douglas-Crews/publication/267843549_Stable_Carbon_and_Nitrogen_Isotope_Analysis_of_Human_Diet_Change_in_Prehistoric_and_Historic_Poland/links/547cdd820cf285ad5b088772/Stable-Carbon-and-Nitrogen-Isotope-Analysis-of-Human-Diet-Change-in-Prehistoric-and-Historic-Poland.pdf
 
 
 
@@ -862,8 +860,6 @@ Mitochondrial DNA variation in North Dakota residents of European ancestry: http
 
 GENETIC CONTINUITY OF ANATOMICALLY MODERN HUMAN BETWEEN INDIA AND ISLAND SOUTHEAST ASIA ISEA: LAST GLACIAL DISPERSAL OF MTDNA LINEAGE N22: https://www.researchgate.net/publication/259326246_GENETIC_CONTINUITY_OF_ANATOMICALLY_MODERN_HUMAN_BETWEEN_INDIA_AND_ISLAND_SOUTHEAST_ASIA_ISEA_LAST_GLACIAL_DISPERSAL_OF_MTDNA_LINEAGE_N22
 
-An Asian Trace in the Genetic Heritage of the Eastern Adriatic Island of Hvar: https://www.croris.hr/crosbi/publikacija/prilog-skup/598507
-
 
 
 
@@ -874,7 +870,7 @@ Ancient DNA study of the remains of putative infanticide victims from the Yewden
 
 An unbiased resource of novel SNP markers provides a new chronology for the human Y chromosome and reveals a deep phylogenetic structure in Africa: https://genome.cshlp.org/content/early/2014/01/06/gr.160788.113.abstract
 
-Correlations in the population structure of music, genes and language: http://doi.org/10.1098/rspb.2013.2072
+Correlations in the population structure of music, genes and language: https://royalsocietypublishing.org/doi/10.1098/rspb.2013.2072
 
 Direct Estimates of Natural Selection in Iberia Indicate Calcium Absorption Was Not the Only Driver of Lactase Persistence in Europe: https://academic.oup.com/mbe/article/31/4/975/1108992
 
@@ -930,7 +926,7 @@ Direct evidence for positive selection of skin, hair, and eye pigmentation in Eu
 
 Y Chromosome Haplogroup Distribution in Indo-European Speaking Tribes of Gujarat, Western India: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0090414
 
-Archaeological Genetics - Approaching Human History through DNA Analysis: http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A667495&dswid=3881
+Archaeological Genetics - Approaching Human History through DNA Analysis: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A667495&dswid=3881
 
 Genetic Origins of Lactase Persistence and the Spread of Pastoralism in Africa: https://www.cell.com/ajhg/fulltext/S0002-9297(14)00067-6
 
@@ -952,7 +948,7 @@ Radiocarbon evidence for the presence of mice on Madeira Island (North Atlantic)
 
 Male lineage strata of Brazilian population disclosed by the simultaneous analysis of STRs and SNPs: https://www.sciencedirect.com/science/article/abs/pii/S1872497314001823
 
-Maternal History of Oceania from Complete mtDNA Genomes: Contrasting Ancient Diversity with Recent Homogenization Due to the Austronesian Expansion: 
+Maternal History of Oceania from Complete mtDNA Genomes: Contrasting Ancient Diversity with Recent Homogenization Due to the Austronesian Expansion: https://www.sciencedirect.com/science/article/pii/S0002929714001165
 
 The genetic correlation between educational attainment, intracranial volume and IQ is due to recent polygenic selection on general cognitive ability: https://openpsych.net/paper/42/
 
@@ -988,9 +984,7 @@ Population Genomic Analysis of Ancient and Modern Genomes Yields New Insights in
 
 Recent Radiation of R-M269 and High Y-STR Haplotype Resemblance Confirmed: https://onlinelibrary.wiley.com/doi/abs/10.1111/ahg.12066
 
-Using STRs for Intra-Family Y-DNA Comparisons: Segmenting Markers: http://www.surnamedna.com/?articles=using-strs-for-intra-family-y-dna-comparisons-segmenting-markers
-
-Genomic diversity and admixture differs for Stone-Age Scandinavian foragers and farmers: https://www.science.org/doi/10.1126/science.1253448
+Using STRs for Intra-Family Y-DNA Comparisons: Segmenting Markers: https://www.surnamedna.com/?articles=using-strs-for-intra-family-y-dna-comparisons-segmenting-markers
 
 Late Pleistocene Human Skeleton and mtDNA Link Paleoamericans and Modern Native Americans: https://www.science.org/doi/10.1126/science.1252619
 
@@ -1652,6 +1646,9 @@ Genome-wide patterns of selection in 230 ancient Eurasians: https://www.nature.c
 
 Coevolution of genes and languages and high levels of population structure among the highland populations of Daghestan: https://www.nature.com/articles/jhg2015132 
 
+Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation: https://www.tandfonline.com/doi/full/10.1179/2055556315Z.00000000040
+
+
 
 
 
@@ -1677,8 +1674,6 @@ History of settlement of villages from Central Tunisia by studying families shar
 Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome: https://www.pnas.org/doi/10.1073/pnas.1518445113
 
 Genomic Evidence Establishes Anatolia as the Source of the European Neolithic Gene Pool: https://www.sciencedirect.com/science/article/pii/S096098221501516X
-
-Does Mitochondrial Haplogroup X Indicate Ancient Trans-Atlantic Migration to the Americas? A Critical Re-Evaluation: https://www.academia.edu/17871358/Does_Mitochondrial_Haplogroup_X_Indicate_Ancient_Trans-Atlantic_Migration_to_the_Americas_A_Critical_Re-Evaluation
 
 Pilipenko 2015 A PALEOGENETIC STUDY OF PAZYRYK PEOPLE BURIED AT AK-ALAKHA-1, THE ALTAI MOUNTAINS in Russian: https://www.researchgate.net/publication/301548191_Pilipenko_2015_A_PALEOGENETIC_STUDY_OF_PAZYRYK_PEOPLE_BURIED_AT_AK-ALAKHA-1_THE_ALTAI_MOUNTAINS_in_russian
 
@@ -1936,7 +1931,7 @@ Mitochondrial DNA control region haplotype and haplogroup diversity in South Eas
 
 Distinct ancestries for similar funerary practices? A GIS analysis comparing funerary, osteological and aDNA data from the Middle Neolithic necropolis Gurgy “Les Noisats” (Yonne, France): https://www.sciencedirect.com/science/article/abs/pii/S0305440316300905
 
-Y-Chromosome Haplogroups in the Bosnian-Herzegovinian Population Based on 23 Y-STR Loci: https://www.jstor.org/stable/10.13110/humanbiology.88.3.0201
+Y-Chromosome Haplogroups in the Bosnian-Herzegovinian Population Based on 23 Y-STR Loci: https://pubmed.ncbi.nlm.nih.gov/28828942/
 
 
 
@@ -2229,6 +2224,8 @@ East of the Andes: The genetic profile of the Peruvian Amazon populations: https
 Detecting past male-mediated expansions using the Y chromosome: https://rd.springer.com/article/10.1007/s00439-017-1781-z 
 
 Matrilineal Heritage in Southern Iberia Reveals Deep Genetic Links between Continents: https://pubmed.ncbi.nlm.nih.gov/29139642/
+
+Ancient DNA Analysis of Palaeolithic Ryukyu Islanders: https://press-files.anu.edu.au/downloads/press/n2320/html/ch03.xhtml
 
 
 
@@ -2604,8 +2601,6 @@ Mitogenomic diversity and differentiation of the Buryats: https://www.nature.com
 
 The Genetic Legacy of the Indian Ocean Slave Trade: Recent Admixture and Post-admixture Selection in the Makranis of Pakistan: https://www.cell.com/ajhg/fulltext/S0002-9297(17)30394-4
 
-Analysis of ancient human mitochondrial DNA from Verteba Cave, Ukraine: insights into the origins and expansions of the Late Neolithic-Chalcolithic Cututeni-Tripolye Culture: https://www.biorxiv.org/content/10.1101/217109v1.full
-
 Tunnug 1 (Arzhan 0) – an early Scythian kurgan in Tuva Republic, Russia: https://www.sciencedirect.com/science/article/abs/pii/S2352226717300600?via%3Dihub
 
 The genomic landscape of Nepalese Tibeto-Burmans reveals new insights into the recent peopling of Southern Himalayas: https://www.nature.com/articles/s41598-017-15862-z
@@ -2655,8 +2650,6 @@ Between Lake Baikal and the Baltic Sea: genomic history of the gateway to Europe
 The kinship of two 12th Dynasty mummies revealed by ancient DNA sequencing: https://www.sciencedirect.com/science/article/abs/pii/S2352409X17305631/
 
 Kinship Analysis of Human Remains from the Sargat Mounds, Baraba Forest-Steppe, Western Siberia: https://www.researchgate.net/publication/321071660_Kinship_Analysis_of_Human_Remains_from_the_Sargat_Mounds_Baraba_Forest-Steppe_Western_Siberia/
-
-Armenians of Artsakh on the genetic landscape of the armenian highland: https://artsakhlib.am/en/2018/05/07/%D5%A1%D6%80%D6%81%D5%A1%D5%AD%D5%A1%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A8-%D5%B0%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%AB-%D5%A3/
 
 
 
@@ -2846,6 +2839,8 @@ No evidence for unknown archaic ancestry in South Asia: https://www.nature.com/a
 
 The First Farmers of Europe: An Evolutionary Perspective: https://www.cambridge.org/core/books/first-farmers-of-europe/7F3B7991A3527EFB8A43FDF89D98A9D1
 
+The genome of an ancient Rouran individual reveals an important paternal lineage in the Donghu population: https://onlinelibrary.wiley.com/doi/10.1002/ajpa.23491
+
 
 
 
@@ -2875,6 +2870,8 @@ Demographic History and Genetic Adaptation in the Himalayan Region Inferred from
 Development of the Kazakhstan Y-chromosome haplotype reference database: analysis of 27 Y-STR in Kazakh population: https://link.springer.com/article/10.1007/s00414-018-1859-8/
 
 Cultural hitchhiking and competition between patrilineal kin groups explain the post-Neolithic Y-chromosome bottleneck: https://www.nature.com/articles/s41467-018-04375-6/
+
+Armenians of Artsakh on the genetic landscape of the armenian highland: https://artsakhlib.am/en/2018/05/07/%D5%A1%D6%80%D6%81%D5%A1%D5%AD%D5%A1%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A8-%D5%B0%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%AB-%D5%A3/
 
 
 
@@ -3362,6 +3359,9 @@ Exome sequencing of Finnish isolates enhances rare-variant association power: ht
 
 A systematic scoping review of the genetic ancestry of the Brazilian population: https://www.scielo.br/j/gmb/a/fk6kLTxZknvrJjmC9hdcZBC/?lang=en
 
+Skin-Related Survival and Adaptation: The Functional Implications of Archaic Introgression in the BNC2 locus of Modern non-Africans: https://dataspace.princeton.edu/handle/88435/dsp01f1881p723
+
+
 
 
 
@@ -3526,8 +3526,6 @@ The Genomic Impact of European Colonization of the Americas: https://www.cell.co
 
 Human mitochondrial DNA lineages in Iron-Age Fennoscandia suggest incipient admixture and eastern introduction of farming-related maternal ancestry: https://www.nature.com/articles/s41598-019-51045-8
 
-Upholding “good science” in human origins research: A response to Chan et al (2019): https://osf.io/preprints/africarxiv/qtjfp
-
 Y-chromosome and Surname Analyses for Reconstructing Past Population Structures: The Sardinian Population as a Test Case: https://www.mdpi.com/1422-0067/20/22/5763
 
 Human Origins in Southern African Palaeo-wetlands? Strong Claims from Weak Evidence: https://www.preprints.org/manuscript/201911.0193/v1
@@ -3597,8 +3595,6 @@ Predicted Archaic 3D Genome Organization Reveals Genes Related to Head and Spina
 Forensic characteristics and genetic affinity analyses of Xinjiang Mongolian group using a novel six fluorescent dye-labeled typing system including 41 Y-STRs and 3 Y-InDels (RETRACTED): https://onlinelibrary.wiley.com/doi/full/10.1002/mgg3.1097
 
 Environmental factors modulated ancient mitochondrial DNA variability and the prevalence of rheumatic diseases in the Basque Country: https://www.nature.com/articles/s41598-019-56921-x
-
-Skin-Related Survival and Adaptation: The Functional Implications of Archaic Introgression in the BNC2 locus of Modern non-Africans: https://dataspace.princeton.edu/handle/88435/dsp01f1881p723
 
 
 
@@ -3767,8 +3763,6 @@ New elements of burial practice in the Kura-Araxes culture: The discovery of Kar
 Mitochondrial and Y-chromosome diversity of the prehistoric Koban culture of the North Caucasus: https://www.sciencedirect.com/science/article/abs/pii/S2352409X20301486
 
 Ancient genomes reveal social and genetic structure of Late Neolithic Switzerland: https://www.nature.com/articles/s41467-020-15560-x
-
-Identity-by-descent detection across 487,409 British samples reveals fine-scale population structure, evolutionary history, and trait associations: https://www.nature.com/articles/s41467-020-19588-x
 
 Population genetic analysis of Neolithic to Bronze Age human remains from Trentino-Alto Adige (Northern Italy): https://openscience.ub.uni-mainz.de/handle/20.500.12030/3111
 
@@ -4236,8 +4230,6 @@ Bantu-speaker migration and admixture in southern Africa: https://academic.oup.c
 
 Medieval Populations of the Mazovian-Rus' Frontier in the Time of Christianization: https://www.researchgate.net/publication/347982275_Medieval_Populations_of_the_Mazovian-Rus'_Frontier_in_the_Time_of_Christianization
 
-Homo Migrans: Modeling Mobility and Migration in Human History: https://www.academia.edu/44892216/Anthony_2021_Migration_nomads_from_the_east_IEMA_SUNY_Buffalo
-
 
 
 
@@ -4317,6 +4309,8 @@ Medieval Super-Grandfather founder of Western Kazakh Clans from Haplogroup C2a1a
 DNA Fingerprinting for Determination of Phylogenetic Tree: A Genomic Study on Samples of Egyptian and Iraqi Populations: https://journals.ekb.eg/article_113091_0.html?fbclid=IwAR3qvbozhOVDNr9sZIZz7LRcPQPXx4SY-ZdG8Kr_LFS941rQG7QvfGv1rKw
 
 Haplotype Diversity of 17 Y Chromosomal STRs in Jat Population of Pakistan: https://www.researchgate.net/publication/356993645_Haplotype_Diversity_of_17_Y_Chromosomal_STRs_in_Jat_Population_of_Pakistan
+
+Homo Migrans: Modeling Mobility and Migration in Human History: https://www.academia.edu/44892216/Anthony_2021_Migration_nomads_from_the_east_IEMA_SUNY_Buffalo
 
 
 
@@ -4551,6 +4545,8 @@ Far from home: A multi-analytical approach revealing the journey of an African-b
 Y chromosome diversity in Aztlan descendants and its implications for the history of Central Mexico: https://www.sciencedirect.com/science/article/pii/S2589004221004557
 
 Human Paleo-Genomics and Beringian Landscapes: https://www.researchgate.net/publication/350188211_Human_Paleo-Genomics_and_Beringian_Landscapes
+
+The Peopling of the Baraba Forest-Steppe in the Neolithic: Cranial Evidence: https://journal.archaeology.nsc.ru/jour/article/view/1169?locale=en_US
 
 
 
@@ -4892,6 +4888,12 @@ The human cultures in South-Eastern Caspian region in final Pleistocene – Holo
 
 Demographic expansion and high level of matrilineal diversity in two populations of East African Baggara cattle: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbg.12648
 
+Perinatal burials at pre-Hispanic noncemetery sites in Gran Canaria: Tophet, infanticide, or natural mortality?: https://onlinelibrary.wiley.com/doi/10.1002/oa.3047
+
+Genomic Insight Into the Population Admixture History of Tungusic-Speaking Manchu People in Northeast China: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.754492/full
+
+A signature of Neanderthal introgression on molecular mechanisms of environmental responses: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009493
+
 
 
 
@@ -5046,23 +5048,13 @@ Genetic Connections and Convergent Evolution of Tropical Indigenous Peoples in A
 
 Phylogenetic Analysis of the South Siberian Q-YP1102 Haplogroup Based on the Data on Y-SNP and Y-STR Markers in Tuvans and Surrounding Populations: https://link.springer.com/article/10.1134/S1022795421120024/
 
-A signature of Neanderthal introgression on molecular mechanisms of environmental responses: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009493
-
-DNA in archaeological sediments: https://www.mpg.de/18092942/1223-evan-dna-in-archaeological-sediments-150495-x
-
 Microstratigraphic preservation of ancient faunal and hominin DNA in Pleistocene cave sediments: https://www.pnas.org/doi/10.1073/pnas.2113666118
 
 Ancient Human Genomes and Environmental DNA from the Cement Attaching 2,000-Year-Old Head Lice Nits: https://academic.oup.com/mbe/article/39/2/msab351/6481551
 
-Genomic Insight Into the Population Admixture History of Tungusic-Speaking Manchu People in Northeast China: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2021.754492/full
-
 Quantitative monitoring of nucleotide sequence data from genetic resources in context of their citation in the scientific literature: https://academic.oup.com/gigascience/article/10/12/giab084/6489123
 
-The return of the Beaker Folk?: Rethinking migration and population change in British prehistory: https://eprints.whiterose.ac.uk/169610: https://eprints.whiterose.ac.uk/169610
-
-Archaeological and natural scientific studies on the Hun-period grave from Kecskemét-Mindszenti-dűlő (2021): https://www.academia.edu/62203184/Archaeological_and_natural_scientific_studies_on_the_Hun_period_grave_from_Kecskem%C3%A9t_Mindszenti_d%C5%B1l%C5%91_2021_
-
-The Peopling of the Baraba Forest-Steppe in the Neolithic: Cranial Evidence: https://journal.archaeology.nsc.ru/jour/article/view/1169?locale=en_US
+The return of the Beaker Folk?: Rethinking migration and population change in British prehistory: https://eprints.whiterose.ac.uk/169610
 
 
 
@@ -5109,8 +5101,6 @@ A population history of indigenous Bahamian islanders: Insights from ancient DNA
 Indigenous peoples in eastern Brazil: insights from 19th century genomes and metagenomes: https://www.biorxiv.org/content/10.1101/2022.01.27.477466v1
 
 ARCHAEOGENETICS OF THE GREAT LAKES REGION OF NORTH AMERICA: https://eprints.hud.ac.uk/id/eprint/35696/
-
-Placing Ancient DNA Sequences into Reference Phylogenies: https://academic.oup.com/mbe/article/39/2/msac017/6516020
 
 Paternal genetic structure of the Bosnian-Herzegovinian Roma: A Y-chromosomal STR study: https://onlinelibrary.wiley.com/doi/abs/10.1002/ajhb.23719
 
@@ -5172,6 +5162,8 @@ The genetic landscape of South African males: A Y-STR perspective: https://www.s
 
 PERSPECTIVES ON ANCESTRAL LINEAGES AND GENETIC MARKERS OF MALAY POPULATION IN PENINSULAR MALAYSIA: https://ejournal.ukm.my/jskm/article/view/49021
 
+Tracking population history, social structure and intergroup exchange in Neolithic to Bronze Age Europe using ancient human and virus genomes: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3489057
+
 
 
 
@@ -5229,8 +5221,6 @@ Haplotype analysis of the mitochondrial DNA d-loop region reveals the maternal o
 Mitochondrial DNA genome variation in the Swedish population: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1647803&dswid=-7997
 
 Broad maternal geographic origin of domestic sheep in Anatolia and the Zagros: https://onlinelibrary.wiley.com/doi/abs/10.1111/age.13191
-
-Circum-Saharan Prehistory through the Lens of mtDNA Diversity: https://www.mdpi.com/2073-4425/13/3/533
 
 
 
@@ -5356,8 +5346,6 @@ A primer for ZooMS applications in archaeology: https://www.pnas.org/doi/full/10
 
 First evidence of human bone pendants from Late Mesolithic Northeast Europe: https://www.sciencedirect.com/science/article/pii/S2352409X22001511
 
-A Middle Pleistocene Denisovan molar from the Annamite Chain of northern Laos: https://www.nature.com/articles/s41467-022-29923-z
-
 The relevance of late MSA mandibles on the emergence of modern morphology in Northern Africa: https://www.nature.com/articles/s41598-022-12607-5
 
 Genetic substructure analysis of three isolated populations in southwest China: https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16288/j.yczz.22-013
@@ -5418,8 +5406,6 @@ Multiple occurrences of the rare Uto-Aztecan premolar variant in Hungary point t
 
 Variation in the Substitution Rates among the Human Mitochondrial Haplogroup U Sublineages: https://academic.oup.com/gbe/article/14/7/evac097/6613373
 
-Croatian genetic heritage: an updated Y-chromosome story: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9284021/
-
 Geographical contrasts of Y-chromosomal haplogroups from wild and domestic goats reveal ancient migrations and recent introgressions: https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16579
 
 Temporal mapping of derived high-frequency gene variants supports the mosaic nature of the evolution of Homo sapiens: https://www.nature.com/articles/s41598-022-13589-0
@@ -5427,8 +5413,6 @@ Temporal mapping of derived high-frequency gene variants supports the mosaic nat
 POPULATION STUDY OF OIRATS AND THE QUESTION OF GENETIC RELATIONSHIP WITH THE DESCENDANTS OF GENGIGI KHAN: https://www.elibrary.ru/item.asp?id=49234105
 
 42 ka human teeth from El Cas: https://www.researchgate.net/profile/Maria-Garralda-2/publication/361277737_Mid-Upper_Paleolithic_transition/links/62a87894416ec50bdb25fad6/Mid-Upper-Paleolithic-transition.pdf
-
-Ancient genomes reveal complex genetic history of an international metropolis at Kublai Khan's Upper Capital (Xanadu): https://onlinelibrary.wiley.com/doi/abs/10.1002/ajpa.24566
 
 Correction: Evolution and dispersal of mitochondrial DNA haplogroup U5 in Northern Europe: insights from an unsupervised learning approach to phylogeography
 
@@ -5766,8 +5750,6 @@ Three assays for in-solution enrichment of ancient human DNA at more than a mill
 
 Parent-of-origin detection and chromosome-scale haplotyping using long-read DNA methylation sequencing and Strand-seq: https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00191-4
 
-Ancient DNA Analysis of Palaeolithic Ryukyu Islanders: https://press-files.anu.edu.au/downloads/press/n2320/html/ch03.xhtml
-
 Automated design of 3D DNA origami with non-rasterized 2D curvature: https://www.science.org/doi/10.1126/sciadv.ade4455
 
 High frequency of mitochondrial haplogroups H and H2 in medieval individuals from the Cathedral of Santa María (Basque Country). Their contribution to the study of inflammatory arthropathies: https://www.sciencedirect.com/science/article/pii/S2352409X2200445X?via
@@ -5778,11 +5760,7 @@ Ancient DNA from Protohistoric Period Cambodia indicates that South Asians admix
 
 Digging into the admixture strata of current-day Canary Islanders based on mitogenomes: https://www.sciencedirect.com/science/article/pii/S2589004222021800
 
-Ancient DNA and the European Neolithic: https://www.oxbowbooks.com/9781789259100/ancient-dna-and-the-european-neolithic/
-
-Tracking population history, social structure and intergroup exchange in Neolithic to Bronze Age Europe using ancient human and virus genomes: https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3489057
-
-Biomolecular Histology as a Novel Proxy for Ancient DNA and Protein Sequence Preservation: https://www.authorea.com/doi/full/10.22541/au.165703184.46153208
+Biomolecular Histology as a Novel Proxy for Ancient DNA and Protein Sequence Preservation: https://onlinelibrary.wiley.com/doi/10.1002/ece3.9518
 
 
 
@@ -5832,6 +5810,8 @@ Following the Evolution of Homo Sapiens across Africa using a Uniparental Geneti
 
 Directionally supervised cellular automaton for the initial peopling of Sahul: https://www.sciencedirect.com/science/article/pii/S0277379123000197
 
+Ancient DNA and the European Neolithic: https://www.oxbowbooks.com/9781789259100/ancient-dna-and-the-european-neolithic/
+
 
 
 
@@ -5870,7 +5850,7 @@ Emergence, continuity, and evolution of Yersinia pestis throughout medieval and 
 
 March 2023: 
 
-A 23,000-year-old southern Iberian individual links human groups that lived in Western Europe before and after the Last Glacial Maximum:  https://www.nature.com/articles/s41559-023-01987-0
+A 23,000-year-old southern Iberian individual links human groups that lived in Western Europe before and after the Last Glacial Maximum: https://www.nature.com/articles/s41559-023-01987-0
 
 Intense community dynamics in the pre-Roman frontier site of Fermo (ninth–fifth century BCE, Marche, central Italy) inferred from isotopic data: https://www.nature.com/articles/s41598-023-29466-3
 
@@ -6086,8 +6066,6 @@ Morphological and morphometric analyses of a late Middle Pleistocene hominin man
 
 The Rurikids: The First Experience of Reconstructing the Genetic Portrait of the Ruling Family of Medieval Rus’ Based on Paleogenomic Data: https://pubmed.ncbi.nlm.nih.gov/37908771/
 
-Enamel proteins reveal biological sex and genetic variability within southern African Paranthropus: https://www.biorxiv.org/content/10.1101/2023.07.03.547326v1
-
 Language trees with sampled ancestors support a hybrid model for the origin of Indo-European languages: https://www.science.org/doi/10.1126/science.abg0818
 
 
@@ -6127,8 +6105,6 @@ Genomic inference of a severe human bottleneck during the Early to Middle Pleist
 Descent, marriage, and residence practices of a 3,800-year-old pastoral community in Central Eurasia: https://www.pnas.org/doi/10.1073/pnas.2303574120
 
 A genome-wide genetic screen uncovers determinants of human pigmentation: https://www.science.org/doi/10.1126/science.ade6289
-
-Interdisciplinary Analyses of Bronze Age Communities from Western Hungary Reveal Complex Population Histories: https://academic.oup.com/mbe/article/40/9/msad182/7240678
 
 Interpreting SNP heritability in admixed populations: https://www.biorxiv.org/content/10.1101/2023.08.04.551959v1
 
@@ -6185,6 +6161,8 @@ Biological and substitute parents in Beaker period adult–child graves: https:/
 Postglacial genomes from foragers across Northern Eurasia reveal prehistoric mobility associated with the spread of the Uralic and Yeniseian languages: https://www.biorxiv.org/content/10.1101/2023.10.01.560332v1
 
 The landscape of ancient human pathogens in Eurasia from the Stone Age to historical times: https://www.biorxiv.org/content/10.1101/2023.10.06.561165v1
+
+High Resolution Paternal Genetic History of Ireland and its Implications for Demographic History: https://www.academia.edu/107278216/High_Resolution_Paternal_Genetic_History_of_Ireland_and_its_Implications_for_Demographic_History
 
 
 
@@ -6264,8 +6242,6 @@ Genomic portrait and relatedness patterns of the Iron Age Log Coffin culture in 
 
 Ancient genomes reveal the origin and kinship burial patterns of human remains during the 11th to 13th centuries in northern China: https://onlinelibrary.wiley.com/doi/10.1002/oa.3274
 
-High Resolution Paternal Genetic History of Ireland and its Implications for Demographic History: https://www.academia.edu/107278216/High_Resolution_Paternal_Genetic_History_of_Ireland_and_its_Implications_for_Demographic_History
-
 Structures, functions and adaptations of the human LINE-1 ORF2 protein: https://www.nature.com/articles/s41586-023-06947-z
 
 Indigenous Australian genomes show deep structure and rich novel variation: https://www.nature.com/articles/s41586-023-06831-w
@@ -6341,8 +6317,6 @@ The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human geno
 "Until death do us part". A multidisciplinary study on human- Animal co- burials from the Late Iron Age necropolis of Seminario Vescovile in Verona (Northern Italy, 3rd-1st c. BCE): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293434
 
 Bioarchaeological investigation of individuals with suspected multibacillary leprosy from the mediaeval leprosarium of St Mary Magdalen, Winchester, Hampshire, UK Open Access: https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001806
-
-"Until death do us part". A multidisciplinary study on human- Animal co- burials from the Late Iron Age necropolis of Seminario Vescovile in Verona (Northern Italy, 3rd-1st c. BCE): https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293434
 
 Vittrup Man–The life-history of a genetic foreigner in Neolithic Denmark: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297032
 
@@ -6513,3 +6487,5 @@ Population genetic admixture and evolutionary history in the Shandong Peninsula 
 Late Neolithic collective burial reveals admixture dynamics during the third millennium BCE and the shaping of the European genome: https://www.science.org/doi/10.1126/sciadv.adl2468
 
 Ancient biomolecular analysis of 39 mammoth individuals from Kostenki 11-Ia elucidates Upper Palaeolithic human resource use: https://www.biorxiv.org/content/10.1101/2024.06.14.598638v1
+
+Female lineages and changing kinship patterns in Neolithic Çatalhöyük: https://www.biorxiv.org/content/10.1101/2024.06.23.600259v1

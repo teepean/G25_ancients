@@ -1425,6 +1425,14 @@ Terminal Pleistocene human skeleton from Hang Cho Cave, northern Vietnam: implic
 
 
 
+June 2008:
+
+An interpretation of the Vaulted Complex and Well 4 in the North-West Palace, Nimrud: https://www.academia.edu/31681254/2008_An_interpretation_of_the_Vaulted_Complex_and_Well_4_in_the_North_West_Palace_Nimrud
+
+
+
+
+
 July 2008:
 
 Craniometric measurements of artificial cranial deformations in Eastern European skulls: https://www.schweizerbart.de/papers/anthranz/detail/66/91206/Craniometric_measurements_of_artificial_cranial_deformations_in_Eastern_European_skulls
@@ -1620,6 +1628,8 @@ Genetic Evidence for Complexity in Ethnic Differentiation and History in East Af
 Geographical Structure of the Y-chromosomal Genetic Landscape of the Levant: A coastal-inland contrast: https://onlinelibrary.wiley.com/doi/10.1111/j.1469-1809.2009.00538.x
 
 Updating Phylogeny of Mitochondrial DNA Macrohaplogroup M in India: Dispersal of Modern Human in South Asian Corridor: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0007447
+
+The Army of the Kings of Ur: The Textual Evidence: https://cdli.mpiwg-berlin.mpg.de/articles/cdlj/2009-5
 
 
 
@@ -2284,6 +2294,8 @@ Divorcing the Late Upper Palaeolithic demographic histories of mtDNA haplogroups
 Late Neolithic expansion of ancient Chinese revealed by Y chromosome haplogroup O3a1c-002611: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1759-6831.2012.00244.x
 
 Language and Linguistic Contact in Ancient Sicily: https://www.cambridge.org/core/books/language-and-linguistic-contact-in-ancient-sicily/9AD7D3D652E2EF24F7139D65CB7469A9
+
+Heritability of male attractiveness persists despite evidence for unreliable sexual signals in Drosophila simulans: https://onlinelibrary.wiley.com/doi/10.1111/jeb.12045
 
 
 
@@ -5503,6 +5515,8 @@ Multiple episodes of interbreeding between Neanderthal and modern humans: https:
 
 Cardinal Numbers: Changing Patterns of Malaria and Mortality in Rome, 494–1850: https://direct.mit.edu/jinh/article-abstract/49/3/397/49574/Cardinal-Numbers-Changing-Patterns-of-Malaria-and
 
+Genetic Landscape of Slovenians: Past Admixture and Natural Selection Pattern: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2018.00551/full
+
 
 
 
@@ -5646,6 +5660,8 @@ Climate Change and the Rise and Fall of the Oxus Civilization in Southern Centra
 General theory for stochastic admixture graphs and F-statistics: https://www.sciencedirect.com/science/article/abs/pii/S0040580918301382
 
 Extracting Insights from Prehistoric Andean Metallurgy: Political Organization, Interregional Connections, and Ritual Meanings: https://link.springer.com/article/10.1007/s10814-019-09128-7
+
+The Semitic Languages: https://www.routledge.com/The-Semitic-Languages/Huehnergard-Pat-El/p/book/9780367731564
 
 
 
@@ -8160,6 +8176,8 @@ Two-dimensional craniometry: morphometry and cephalometry: https://revistas.unis
 
 Social differentiation and well-being in the Italian Iron Age: exploring the relationship between sex, age, biological stress, and burial complexity among the Picenes of Novilara (8th–7th c. BC): https://link.springer.com/article/10.1007/s12520-021-01449-3
 
+Radiocarbon Dated Trends and Central Mediterranean Prehistory: https://link.springer.com/article/10.1007/s10963-021-09158-4
+
 
 
 
@@ -9455,6 +9473,8 @@ Permafrost preservation reveals proteomic evidence for yak milk consumption in t
 Investigating livestock management in the early Neolithic archaeological site of Cabecicos Negros (Almería, Spain) from the organic residue analysis in pottery: https://www.nature.com/articles/s41598-023-31036-6
 
 Precise characterization of a corridor-shaped structure in Khufu’s Pyramid by observation of cosmic-ray muons: https://www.nature.com/articles/s41467-023-36351-0
+
+The settlement of Yauna, ‘Ionian’ identity and the Greek presence on the Syrian coast in the second half of the eighth century BC: a reassessment of two letters from the Nimrud correspondence: https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/settlement-of-yauna-ionian-identity-and-the-greek-presence-on-the-syrian-coast-in-the-second-half-of-the-eighth-century-bc-a-reassessment-of-two-letters-from-the-nimrud-correspondence/EFA7C894A8032AFF295EAA5778EE0633
 
 
 
@@ -10852,6 +10872,8 @@ The paradox of predictability provides a bridge between micro- and macroevolutio
 
 Mid-Holocene climate at mid-latitudes: assessing the impact of Saharan greening: https://cp.copernicus.org/articles/20/1735/2024/
 
+A Review of Genetic Diversity Based on the Y Chromosome in the Romanian Population: https://www.cureus.com/articles/285641-a-review-of-genetic-diversity-based-on-the-y-chromosome-in-the-romanian-population#!/
+
 
 
 
@@ -11178,6 +11200,8 @@ Temporal and spatial patterns of domestic horse utilisation in northern China du
 
 The Capability Approach and Archaeological Interpretation of Transformations: On the Role of Philosophy for Archaeology: https://www.degruyter.com/document/doi/10.1515/opar-2024-0013/html
 
+The Late Bronze–Early Iron Age transition in Canaan: new insights from Bayesian modelling of radiocarbon dates: https://www.tandfonline.com/doi/full/10.1080/00758914.2024.2409546
+
 
 
 
@@ -11400,3 +11424,13 @@ Moche Human Sacrifice: The Role of Funerary and Warrior Sacrifice in Moche Ritua
 Genetic ancestry and population structure in the All of Us Research Program cohort: https://www.biorxiv.org/content/10.1101/2024.12.21.629909v1
 
 Reconstructing ancient Southern African mitochondrial genomes at Faraoskop: https://link.springer.com/article/10.1007/s12520-024-02130-1
+
+Lifespan costs of reproduction increase during the Great Finnish Famine: https://www.biorxiv.org/content/10.1101/2024.12.24.630228v1
+
+The Digital Facial Approximation of Saint Adalbert of Prague (AD 956-997): https://www.sciencedirect.com/science/article/abs/pii/S2212054824000821
+
+Ethnogenetic analysis reveals the Bronze Age genetic affiliation of Yashkuns with West Eurasians: https://www.nature.com/articles/s41598-024-83136-6
+
+Funeral practices in the Bronze and Early Iron Ages in south-western Poland with regard to social change: https://www.researchgate.net/publication/387268467_Funeral_practices_in_the_Bronze_and_Early_Iron_Ages_in_south-western_Poland_with_regard_to_social_change
+
+The origins of the Vanir: https://www.academia.edu/101809934/The_origins_of_the_Vanir
